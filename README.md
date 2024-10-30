@@ -1,5 +1,7 @@
 A CRM Application to Handle the Clients and their property Related Requirements
 
+Project Working Video_link (Google Drive): https://drive.google.com/drive/folders/1rd34Y0bqsn6opQPe0NeTBZZgCCFAXCZS
+
 CRM for Client and Property Management 🏢
 Project Overview
 This Salesforce project is a CRM system for managing clients and property needs. It automates data entry through Jotform integration, organizes property details, and includes approval processes to ensure data accuracy. 🌐
