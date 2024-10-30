@@ -1,5 +1,5 @@
 A CRM Application to Handle the Clients and their property Related Requirements
-jotform link: https://form.jotform.com/242712442035043
+Jotform link: https://form.jotform.com/242712442035043
 ![2024-10-29 (89)](https://github.com/user-attachments/assets/6e417456-885a-4375-84a4-542681a5730d)
 
 CRM for Client and Property Management 🏢
